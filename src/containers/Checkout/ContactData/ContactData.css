@@ -1,0 +1,17 @@
+.ContactData{
+    margin:340px auto;
+    width:100%;
+    height: 40%;
+    text-align: center;
+    border: 1px solid lightsalmon;
+    padding:10px;
+    box-shadow:2px 3px 0px 0px navajowhite;
+    text-align: center;
+}
+
+
+@media(min-width:600px){
+    .ContactData{
+        width:500px;
+    }
+}
